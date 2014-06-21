@@ -12,7 +12,7 @@ $sudo passwd ken
 
 sudo pkill -KILL -u username
 
-sudo apt-get install lubuntu-desktop xrdp xvfb vnc4server lxde-common
+sudo apt-get install lubuntu-desktop xrdp xvfb lxde-common
 
 
 sudo /etc/init.d/xrdp restart
